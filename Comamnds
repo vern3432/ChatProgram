@@ -1,3 +1,4 @@
+sqlite3 MessageApp.db < CreationSciptSqlite3.sql
 sudo apt-get install graphviz libgraphviz-dev
 pip install eralchemy
 pip install SQLAlchemy==1.2.4
